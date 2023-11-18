@@ -2,7 +2,7 @@ from cv2 import VideoCapture, resize, INTER_LINEAR, imread
 from render_html import render_in_browser
 from scipy.interpolate import interp1d
 from argparse import ArgumentParser
-from os import exists
+from os.path import exists
 
 parser = ArgumentParser(description="AsciiCam - Convert media to ascii photos")
 
