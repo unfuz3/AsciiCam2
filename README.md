@@ -19,3 +19,7 @@ options:
   -s SIZE, --size SIZE  Specify the ascii image size, format 'WxH', ie. -s
                         '60x40'. Default is 128x96
 ```
+
+## License
+
+Licensed under MIT License, by unfuz3. Check LICENSE for more info.
